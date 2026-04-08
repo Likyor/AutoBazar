@@ -1,4 +1,4 @@
-# 🚗 Обновленный АвтоБазар (Updated AutoBazaar)
+# 🚗 Обновленный АвтоБазар для Arizona RP.
 
 ![Lua](https://img.shields.io/badge/Language-Lua-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-SAMP-lightgrey.svg)
